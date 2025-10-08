@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>💻 Aspiring Software Developer | 🛡️ Cybersecurity Learner</b><br/>
-  <a href="https://github.com/KunalRAM20" target="_blank">🌐 github.com/KunalRAM20</a>
+  <a href="https://github.com/Chauhantanya" target="_blank">🌐 github.com/Chauhantanya</a>
 </p>
 
 ---
