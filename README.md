@@ -60,15 +60,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chauhantanya&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chauhantanya&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 <p align="center">
