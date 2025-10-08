@@ -67,10 +67,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Chauhantanya&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauhantanya&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
 ---
 
 ### 🔗 Connect With Me
